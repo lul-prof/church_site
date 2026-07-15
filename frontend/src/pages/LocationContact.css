@@ -1,0 +1,17 @@
+/* Contact Form Styles */
+.contact-info {
+    font-family: 'Open Sans', sans-serif;
+    color: #37474F;
+  }
+  
+  .contact-form .form-control {
+    border-radius: 5px;
+    border: 1px solid #ccc;
+  }
+  
+  .contact-form .btn-primary {
+    background-color: #E3B505;
+    border: none;
+    border-radius: 5px;
+  }
+  

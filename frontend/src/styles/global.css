@@ -1,0 +1,43 @@
+/* Global Styles */
+body {
+    font-family: 'Open Sans', sans-serif;
+    background-color: #fffae9; /* Soft beige background */
+    color: #37474F; /* Cool Slate text */
+  }
+  
+  h1, h2, h3 {
+    font-family: 'Poppins', sans-serif;
+    color: #3A3A8E; /* Soft navy for headings */
+  }
+  
+  .container {
+    padding: 20px;
+  }
+  
+  /* Custom Button Styles */
+  .btn-primary {
+    background-color: #E3B505; /* Warm gold */
+    border: none;
+    border-radius: 5px;
+    font-family: 'Poppins', sans-serif;
+    padding: 10px 20px;
+  }
+  
+  .btn-primary:hover {
+    background-color: #D4A004; /* Slightly darker on hover */
+  }
+  
+  /* Navbar Styling */
+  .navbar {
+    background-color: #3A3A8E; /* Soft navy */
+  }
+  
+  .navbar-brand, .nav-link {
+    color: #FFF8E1 !important; /* Warm beige text */
+    font-family: 'Poppins', sans-serif;
+  }
+  
+  .nav-link:hover {
+    color: #E3B505 !important; /* Warm gold hover */
+  }
+  
